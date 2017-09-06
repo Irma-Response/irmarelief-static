@@ -9,11 +9,22 @@ main {
   margin-top: 3em;
 }
 
-.entry-footer {
-  .box {
-    margin-top: 2em;
+.hero-home {
+  @extend .hero;
+  background-image: url('/assets/images/irma_sat.jpg');
+  .title,
+  .subtitle {
+    font-weight: 700;
   }
 }
+
+.notification {
+  border-radius: 3px;
+  padding: 1.25rem 0;
+  position: relative;
+  text-align: center;
+}
+
 
 .footer {
   margin-top: 3em;
