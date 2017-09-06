@@ -1,6 +1,6 @@
 # Irma Relief
 
-Web site intended to provide information to assist victims of Hurricane Irma.
+Web site intended to provide information to assist survivors of Hurricane Irma.
 
 ## How to Help
 - Designers. We need to design the site to provide information most important to hurricane victims. We also need it to be easy to find what we need.
