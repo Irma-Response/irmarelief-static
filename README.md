@@ -1,6 +1,7 @@
 # Irma Relief
 
-** NOTE - THIS IS A FALLBACK PLAN  & NOT CURRENTLY SERVING IRMA RELIEF WEB SITE **
+## NOTE - THIS IS A FALLBACK PLAN  & NOT CURRENTLY SERVING IRMA RELIEF WEB SITE
+
 Web site intended to provide information to assist survivors of Hurricane Irma.
 
 ## How to Help
