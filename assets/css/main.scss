@@ -11,7 +11,7 @@ main {
 
 .hero-home {
   @extend .hero;
-  background-image: url('../assets/images/irma_sat.jpg');
+  background-image: url('/images/irma_sat.jpg');
   .title,
   .subtitle {
     font-weight: 700;
