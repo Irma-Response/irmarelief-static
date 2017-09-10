@@ -55,9 +55,9 @@ If you want to help with Hurricane Irma response, relief and recovery, please fi
 <h3 id="upcoming-events" style="margin: 35px 0 5px;"><span style="color: #000000; font-size: 32px;">I'm With a Shelter</span></h3>
 </div>
 <div style="display: inline-block; padding: 40px 0; text-align: center;">
-[flat_button text="Add New Shelter" title="Add New Shelter" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
-<h4>[flat_button text="Update Shelter" title="Update Shelter" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
-<h4>[flat_button text="See All Shelters" title="See All Shelters" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
+[flat_button text="Add New Shelter" title="Add New Shelter" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
+[flat_button text="Update Shelter" title="Update Shelter" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</div>
+[flat_button text="See All Shelters" title="See All Shelters" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
 <h4>[flat_button text="Email Us" title="Email Us" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
 <h4>[flat_button text="Florida Shelter Information" title="Florida Shelter Information" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</div>
 </div>
