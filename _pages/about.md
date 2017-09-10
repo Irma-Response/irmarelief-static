@@ -12,6 +12,8 @@ post_date: 2016-07-15 22:41:23
 [content_block bg_image="https://responsemap.net/wp-content/uploads/2016/07/bguyoga25.jpg" max_bg_width="yes" bg_fixed="yes" bg_position="center center" bg_size="contain" bg_repeat="no-repeat" parallax_scroll="no" bg_color="#ffffff" content_padding="50px 0 50px" font_color="#777777"]
 <div style="text-align: center;">
 <h2 class="h2">Evacuation Notices</h2>
+<a class="link-6" href="http://irmaresponse.org/kreyol">Kreyòl</a> / <a class="link-5" href="http://irmaresponse.org/espanol">Español</a>
+
 ▪ Brevard - mandatory for Zone A, Merritt Island, barrier islands, and some low lying mainland areas along Indian River Lagoon beginning Friday PM
 
 ▪ Broward - voluntary mobile homes and low-lying areas beginning Wednesday 12 PM; mandatory East of Federal Highway including barrier islands beginning Thursday 12 PM
