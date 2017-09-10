@@ -32,7 +32,7 @@ If you're a shelter and need supplies/volunteers, click below to let us know wha
 <h4>[flat_button text="Emergency and Safety Tips" title="Emergency and Safety Tips" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
 <h4>[flat_button text="Preparations and Evacuations" title="Preparations and Evacuations" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
 </div>
-<h2></h2>
+<h2>[clear]</h2>
 <div style="margin: 0 0 20px 0;">
 <h2>I WANT TO HELP</h2>
 <div class="res-subhead">
