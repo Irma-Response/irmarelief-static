@@ -48,7 +48,6 @@ If you want to help with Hurricane Irma response, relief and recovery, please fi
 [flat_button text="Volunteer Florida Registration" title="Volunteer Florida Registration" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
 
 [clear]
-[/content_block]
 
 [content_block bg_image="##" max_bg_width="yes" bg_fixed="no" bg_position="center top" bg_repeat="no-repeat" bg_size="contain" parallax_scroll="no" bg_color="#ffffff" content_padding="10px 0 30px 0" font_color="#000000" class="class-name"]
 <div style="text-align: center;">
