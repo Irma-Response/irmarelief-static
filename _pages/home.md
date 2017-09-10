@@ -27,6 +27,10 @@ If you're a shelter and need supplies/volunteers, click below to let us know wha
 <div style="text-align: center;">
 <h3 style="margin: 35px 0 30px;"><span style="color: #000000; font-size: 32px;">Irma Response Resources</span></h3>
 <div style="margin: 0 0 20px 0;">
+<h2>I NEED HELP</h2>
+<h4>[flat_button text="Florida Shelter Information" title="Florida Shelter Information" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
+<h4>[flat_button text="Emergency and Safety Tips" title="Emergency and Safety Tips" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
+<h4>[flat_button text="Preparations and Evacuations" title="Preparations and Evacuations" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
 <h2>I WANT TO HELP</h2>
 <div class="res-subhead">
 
