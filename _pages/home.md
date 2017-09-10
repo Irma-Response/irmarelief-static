@@ -11,7 +11,7 @@ post_date: 2016-07-21 19:42:55
 <div style="margin-top: -40px;"></div>
 [content_block bg_image="https://responsemap.net/wp-content/uploads/2017/09/Webp.net-compress-image.jpg" max_bg_width="yes" bg_fixed="no" bg_position="center top" bg_size="inherit" bg_repeat="no-repeat" parallax_scroll="yes" bg_color="#000" content_padding="60px 0 20px" font_color="#FFFFFF"]
 <div style="text-align: center;">
-<h1 class="h1-hero">HURRICANE IRMA
+<h1 class="h1-hero" style="color:orange">HURRICANE IRMA
 FLORIDA EMERGENCY RESOURCES</h1>
 <div id="forms" class="hero-content">
 <div class="hero-intro">If you need to evacuate, click below to view the Shelter Map for open shelters in your area.
@@ -28,11 +28,10 @@ If you're a shelter and need supplies/volunteers, click below to let us know wha
 <h3 style="margin: 35px 0 30px;"><span style="color: #000000; font-size: 32px;">Irma Response Resources</span></h3>
 <div style="margin: 0 0 20px 0;">
 <h2>I NEED HELP</h2>
-<div style="display: inline-block; padding: 40px 0; text-align: center;">
-[flat_button text="Florida Shelter Information" title="Florida Shelter Information" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
+<div style="display: inline-block; padding: 40px 0; text-align: center;">[flat_button text="Florida Shelter Information" title="Florida Shelter Information" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
 [flat_button text="Emergency and Safety Tips" title="Emergency and Safety Tips" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
-[flat_button text="Preparations and Evacuations" title="Preparations and Evacuations" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
-</div></div>
+[flat_button text="Preparations and Evacuations" title="Preparations and Evacuations" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</div>
+</div>
 [clear]
 <div style="margin: 0 0 20px 0;">
 <h2>I WANT TO HELP</h2>
@@ -54,13 +53,11 @@ If you want to help with Hurricane Irma response, relief and recovery, please fi
 <div style="text-align: center;">
 <h3 id="upcoming-events" style="margin: 35px 0 5px;"><span style="color: #000000; font-size: 32px;">I'm With a Shelter</span></h3>
 </div>
-<div style="display: inline-block; padding: 40px 0; text-align: center;">
-[flat_button text="Add New Shelter" title="Add New Shelter" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
+<div style="display: inline-block; padding: 40px 0; text-align: center;">[flat_button text="Add New Shelter" title="Add New Shelter" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
 [flat_button text="Update Shelter" title="Update Shelter" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</div>
-[flat_button text="See All Shelters" title="See All Shelters" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
+[flat_button text="See All Shelters" title="See All Shelters" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
 <h4>[flat_button text="Email Us" title="Email Us" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
-<h4>[flat_button text="Florida Shelter Information" title="Florida Shelter Information" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</div>
-</div>
+<h4>[flat_button text="Florida Shelter Information" title="Florida Shelter Information" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</h4>
 [clear]
 [one_half]
 <h4 style="margin: 35px 0 0;">See Something Missing?</h4>
@@ -81,4 +78,3 @@ To participate in shelter data collection, app development, or any other help, p
 </div>
 [/content_block]
 [clear]
-<div style="margin-bottom: -20px;"></div>
