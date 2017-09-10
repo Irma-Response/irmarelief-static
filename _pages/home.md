@@ -48,8 +48,6 @@ If you want to help with Hurricane Irma response, relief and recovery, please fi
 [flat_button text="Volunteer Florida Registration" title="Volunteer Florida Registration" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
 
 [clear]
-[ess_grid alias="courses"]
-[clear]
 [/content_block]
 
 [content_block bg_image="##" max_bg_width="yes" bg_fixed="no" bg_position="center top" bg_repeat="no-repeat" bg_size="contain" parallax_scroll="no" bg_color="#ffffff" content_padding="10px 0 30px 0" font_color="#000000" class="class-name"]
@@ -76,12 +74,8 @@ To participate in shelter data collection, app development, or any other help, p
 </div>
 <div style="background-color: rgba(8, 59, 68, 0.50); display: inline-block; padding: 30px; margin: 30px 0 0 0;">
 <h4 style="margin-bottom: 25px;"><span style="font-size: 34px; color: #ffffff; line-height: 1.2; font-weight: bold;">Sponsors</span></h4>
-<div style="line-height: 1.6; color: #ffffff;">An summo homero expetendis mel. Ius iisque iracundia cu, duo eius mazim omnium in. In discere oportere cum, elit eloquentiam ex eam. Ei dicat scaevola duo. Et mea possim persecuti omittantur, cibo dicat molestie ea eos. Nec copiosae sapientem et, vivendum insolens in est, has timeam detraxit id. Delenit verterem scriptorem has in, nisl quodsi epicurei no sea, eam at magna vocibus offendit. Ei dicat scaevola duo. Et mea possim persecuti omittantur, cibo dicat molestie ea eos. Nec copiosae sapientem et, vivendum insolens in est, has timeam detraxit id.
-Ei dicat scaevola duo. Et mea possim persecuti omittantur, cibo dicat molestie ea eos. Nec copiosae sapientem et, vivendum insolens in est, has timeam detraxit id. Delenit verterem scriptorem has in, nisl quodsi epicurei no sea, eam at magna vocibus offendit. Ei dicat scaevola duo. Et mea possim persecuti omittantur, cibo dicat molestie ea eos. Nec copiosae sapientem et, vivendum insolens in est, has timeam detraxit id</div>
+<div style="line-height: 1.6; color: #ffffff;"></div>
 <div class="clear" style="margin-top: 20px;"></div>
-<div style="float: right; text-align: right; font-style: normal; font-weight: bold;"><span style="font-size: 18px; color: #ffffff;">- Amy Z. Bruno</span>
-<span style="color: #eeeeee;">Co-owner and Yoga Instructor</span>
-<a title="Go to http://www.example.com" href="http://www.example.com" target="_blank" rel="noopener">http://www.example.com</a></div>
 </div>
 [/content_block]
 [clear]
