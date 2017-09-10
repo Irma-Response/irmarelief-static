@@ -76,5 +76,4 @@ To participate in shelter data collection, app development, or any other help, p
 <div style="line-height: 1.6; color: #ffffff;"></div>
 <div class="clear" style="margin-top: 20px;"></div>
 </div>
-[/content_block]
 [clear]
