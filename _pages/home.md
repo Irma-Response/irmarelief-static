@@ -15,7 +15,7 @@ post_date: 2016-07-21 19:42:55
 FLORIDA EMERGENCY RESOURCES</h1>
 <div id="forms" class="hero-content">
 <div class="hero-intro">If you need to evacuate, click below to view the Shelter Map for open shelters in your area.
-If you're a shelter and need supplies/volunteers, click below to let us know what you need. Si necesita un refugio, haga click abajo para ver el Mapa con refugios abiertos en su area.</div>
+If you're a shelter and need supplies/volunteers, click below to let us know what you need.</div>
 </div>
 <div style="display: inline-block; padding: 40px 0; text-align: center;">[flat_button text="See Map of Shelters" title="See Map of Shelters" url="#shelters" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"] [flat_button text="See What Shelters Need" title="See What Shelters Need" url="https://irma-api.herokuapp.com/needs" padding="15px 22px" bg_color="#3c5e61" border_color="#3c5e61" border_width="2px" text_color="#ffffff" text_size="14px" align="right" target="_self"]</div>
 </div>
@@ -25,15 +25,13 @@ If you're a shelter and need supplies/volunteers, click below to let us know wha
 <div style="text-align: center;">
 <h3 style="margin: 35px 0 30px;"><span style="color: #000000; font-size: 32px;">Irma Response Resources</span></h3>
 </div>
-<div style="margin: 0 0 20px 0;">
-<a name="need-help"></a>
+<div style="margin: 0 0 20px 0;"><a name="need-help"></a>
 <h2>I NEED HELP</h2>
 <div style="display: inline-block; padding: 40px 0; text-align: center;">[flat_button text="Florida Shelter Information" title="Florida Shelter Information" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
 [flat_button text="Emergency and Safety Tips" title="Emergency and Safety Tips" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
 [flat_button text="Preparations and Evacuations" title="Preparations and Evacuations" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</div>
 [clear]
-<div style="margin: 0 0 20px 0;">
-<a name="can-help"></a>
+<div style="margin: 0 0 20px 0;"><a name="can-help"></a>
 <h2>I WANT TO HELP</h2>
 <div class="res-subhead">
 
@@ -47,16 +45,12 @@ If you want to help with Hurricane Irma response, relief and recovery, please fi
 </div>
 <div style="display: inline-block; padding: 40px 0; text-align: center;">[flat_button text="Volunteer Florida Registration" title="Volunteer Florida Registration" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</div>
 [clear]
-
-
-<div style="margin: 0 0 20px 0;">
-<a name="have-shelter"></a>
+<div style="margin: 0 0 20px 0;"><a name="have-shelter"></a>
 <h2>I'M WITH A SHELTER</h2>
-
 <div style="display: inline-block; padding: 40px 0; text-align: center;">[flat_button text="Add New Shelter" title="Add New Shelter" url="https://irma-api.herokuapp.com/shelters/new" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
 [flat_button text="Update Shelter" title="Update Shelter" url="https://irma-api.herokuapp.com/shelters" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</div>
 <div style="display: inline-block; padding: 40px 0; text-align: center;">[flat_button text="See All Shelters" title="See All Shelters" url="https://irma-api.herokuapp.com/shelters" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
-[flat_button text="Email Us" title="Email Us" url="sheltermapping@gmail.com" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]<br/>
+[flat_button text="Email Us" title="Email Us" url="sheltermapping@gmail.com" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]
 [flat_button text="Florida Shelter Information" title="Florida Shelter Information" url="#upcoming-events" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"]</div>
 [clear]
 [one_half]
@@ -77,3 +71,5 @@ To participate in shelter data collection, app development, or any other help, p
 <div class="clear" style="margin-top: 20px;"></div>
 </div>
 [clear]
+
+</div>
