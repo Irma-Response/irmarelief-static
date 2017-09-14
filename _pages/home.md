@@ -17,7 +17,7 @@ FLORIDA EMERGENCY RESOURCES</h1>
 <div class="hero-intro">If you need to evacuate, click below to view the Shelter Map for open shelters in your area.
 If you're a shelter and need supplies/volunteers, click below to let us know what you need.</div>
 </div>
-<div style="display: inline-block; padding: 40px 0; text-align: center;">[flat_button text="See Map of Shelters" title="See Map of Shelters" url="#shelters" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"] [flat_button text="See What Shelters Need" title="See What Shelters Need" url="https://irma-api.herokuapp.com/needs" padding="15px 22px" bg_color="#3c5e61" border_color="#3c5e61" border_width="2px" text_color="#ffffff" text_size="14px" align="right" target="_self"]</div>
+<div style="display: inline-block; padding: 40px 0; text-align: center;">[flat_button text="View Shelter Map" title="View Shelter Map" url="#shelters" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"] [flat_button text="Tell Us What Your Shelter Needs" title="Tell Us What Your Shelter Needs" url="https://irma-api.herokuapp.com/needs" padding="15px 22px" bg_color="#3c5e61" border_color="#3c5e61" border_width="2px" text_color="#ffffff" text_size="14px" align="right" target="_self"]</div>
 </div>
 <div style="text-align: center; margin-top: 5px;"><a href="#help"><i class="fa fa-angle-down circle-wrap" style="color: #ffffff; font-size: 1.5em;"><!-- icon --></i></a></div>
 [/content_block]
