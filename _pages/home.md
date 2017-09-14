@@ -8,16 +8,17 @@ permalink: https://responsemap.net/
 published: true
 post_date: 2016-07-21 19:42:55
 ---
+[vc_row 0=""][vc_column][vc_column_text 0=""]
 <div style="margin-top: -40px;"></div>
 [content_block bg_image="https://responsemap.net/wp-content/uploads/2017/09/Webp.net-compress-image.jpg" max_bg_width="yes" bg_fixed="no" bg_position="center top" bg_size="inherit" bg_repeat="no-repeat" parallax_scroll="yes" bg_color="#000" content_padding="60px 0 20px" font_color="#FFFFFF"]
 <div style="text-align: center;">
 <h1 class="h1-hero" style="color: orange;">HURRICANE IRMA
 FLORIDA EMERGENCY RESOURCES</h1>
 <div id="forms" class="hero-content">
-<div class="hero-intro">If you need to evacuate, click below to view the Shelter Map for open shelters in your area.
-If you're a shelter and need supplies/volunteers, click below to let us know what you need.</div>
+<div class="hero-intro">If you need to evacuate, click below to view our Shelter Availability Map.
+If you're a shelter and need supplies or volunteers, let us know <a href="https://irma-api.herokuapp.com/needs">here</a> or click below.</div>
 </div>
-<div style="display: inline-block; padding: 40px 0; text-align: center;">[flat_button text="View Shelter Map" title="View Shelter Map" url="#shelters" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"] [flat_button text="Tell Us What Your Shelter Needs" title="Tell Us What Your Shelter Needs" url="https://irma-api.herokuapp.com/needs" padding="15px 22px" bg_color="#3c5e61" border_color="#3c5e61" border_width="2px" text_color="#ffffff" text_size="14px" align="right" target="_self"]</div>
+<div style="display: inline-block; padding: 40px 0; text-align: center;">[flat_button text="View Shelter Availability Map" title="View Shelter Availability Map" url="#shelters" padding="15px 22px" bg_color="#C2B08A" border_color="#C2B08A" border_width="2px" text_color="#ffffff" text_size="14px" align="left" target="_self"] [flat_button text="Tell Us What Your Shelter Needs" title="Tell Us What Your Shelter Needs" url="https://irma-api.herokuapp.com/needs" padding="15px 22px" bg_color="#3c5e61" border_color="#3c5e61" border_width="2px" text_color="#ffffff" text_size="14px" align="right" target="_self"]</div>
 </div>
 <div style="text-align: center; margin-top: 5px;"><a href="#help"><i class="fa fa-angle-down circle-wrap" style="color: #ffffff; font-size: 1.5em;"><!-- icon --></i></a></div>
 [/content_block]
@@ -66,8 +67,7 @@ If you want to help with Hurricane Irma response, relief and recovery, please fi
 <div style="text-align: center;">
 <h2>What is this?</h2>
 <p class="break-word">Built by members of the Code for America brigades in Florida &amp; other selfless hackers from around the world with support from Sketch City in Houston
-To participate in shelter data collection, app development, or any other help, please <a href="https://irma-response-slack.herokuapp.com/">join us on Slack</a></p>
-
+To participate in shelter data collection, app development, or any other help, please <a href="https://irma-response-slack.herokuapp.com/">join us on Slack</a>
 <h3 style="margin: 35px 0 30px;"></h3>
 </div>
 <div style="background-color: rgba(8, 59, 68, 0.50); display: inline-block; padding: 30px; margin: 30px 0 0 0;">
@@ -78,3 +78,4 @@ To participate in shelter data collection, app development, or any other help, p
 [clear]
 
 </div>
+[/vc_column_text][/vc_column][/vc_row]
